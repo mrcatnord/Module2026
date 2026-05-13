@@ -44,6 +44,13 @@
 
 <img width="1071" height="245" alt="image" src="https://github.com/user-attachments/assets/a86d4eeb-5efc-4a28-a26a-7052c526d58e" />
 
+<img width="945" height="116" alt="image" src="https://github.com/user-attachments/assets/904f9972-16a5-467e-a4fb-e7dc96c8d3fe" />
+
+<img width="948" height="183" alt="image" src="https://github.com/user-attachments/assets/90e24cad-7842-41dd-bec8-1593c419aaec" />
+
+
+Так же огромное спасибо @photografiruykotov ака arugva-lab 
+
 
 
 
