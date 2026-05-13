@@ -51,7 +51,7 @@
 
 Так же огромное спасибо @photografiruykotov ака arugva-lab 
 
-
+В случае если не рабоатет гитхаб https://gitverse.ru/MrCatNord/Module2026
 
 
 
