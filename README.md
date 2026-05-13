@@ -1,5 +1,5 @@
 # Module2026
-Решение всех ваших проблем(наверное)
+Решение всех ваших проблем (наверное).
 
 > [!WARNING]
 > На экзамене присутствует внешняя комиссия. 
@@ -8,3 +8,16 @@
 Набор команд для ручного ввода 
 
 > Команды покрывают задания **Модуля 1** и **Модуля 2**, чего достаточно для оценки «4».
+## Архитектура
+
+| Роль | Hostname | ОС | Задачи |
+| :--- | :--- | :--- | :--- |
+| Провайдер | `ISP` | Astra Linux | NAT, NTP, Nginx (Reverse Proxy + Web Auth) |
+| Роутер HQ | `HQ-RTR` | Astra Linux | OSPF, NAT, VLAN, GRE, DHCP |
+| Роутер BR | `BR-RTR` | Astra Linux | OSPF, NAT, GRE |
+| Сервер HQ | `HQ-SRV` | Alt Server | RAID0, NFS, LAMP (Apache + MariaDB) |
+| Клиент HQ | `HQ-CLI` | Alt Workstation | Ввод в домен, NFS-клиент, браузер |
+| Сервер BR | `BR-SRV` | Alt Server | Samba DC (AD), Docker, Ansible |
+
+### Как с этим работать
+На демоэкзамене будет 
