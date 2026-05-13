@@ -12,13 +12,15 @@
 ## Как с этим работать
 На демоэкзамене можно будет пользоватся интернетом(без прямых ссылок, только запрос!).
 <img width="1401" height="254" alt="image" src="https://github.com/user-attachments/assets/14d6babc-e42f-4552-aa9f-dada8144b870" /> Так нельзя
+
 <img width="1376" height="84" alt="image" src="https://github.com/user-attachments/assets/e66e0384-1b5e-4801-ad7f-dd23e7f932bb" /> Так можно
+
 Поэтому чтобы найти этот гайд делаем следующие действия:
 1. Ищем гитхаб через поиск
 <img width="1384" height="82" alt="image" src="https://github.com/user-attachments/assets/65fdc9ab-7962-40a1-9bbf-67815d09adad" />
 2. Ищем репозиторий по нзаванию
 <img width="1702" height="241" alt="image" src="https://github.com/user-attachments/assets/fb9fbc83-0eed-4f32-b6de-ac4e2438182a" />
-3. Успех
 
-Так же рекомендуется открыть еще нескольок вкладок с поиском информации(Например: как настроить Nat, как загрузить Samba и так далее)
+> [!WARNING]
+> Так же рекомендуется открыть еще нескольок вкладок с поиском информации(Например: как настроить Nat, как загрузить Samba и так далее)
 
